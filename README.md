@@ -39,9 +39,11 @@ Learning → Building → Improving
 
 # 🖼 Image Optimizer
 🔗 **Веб-версия:** [https://broniks1.github.io/Image-Video-Optimizer/](https://broniks1.github.io/Image-Video-Optimizer/)
-## 💻 Полная версия (с поддержкой видео)
-Полноценная **десктопная версия** с поддержкой **сжатия видео через FFmpeg** доступна в виде готового `.exe` файла:
-👉 **[Скачать последнюю версию → раздел Releases](https://github.com/broniks1/Image-Video-Optimizer/releases)**
+# 💻 Полная версия (с поддержкой видео)
+Полноценная *десктопная версия* с поддержкой *сжатия видео через FFmpeg* доступна в виде готового `.exe` файла:
+👉 *[Скачать последнюю версию → раздел Releases](https://github.com/broniks1/Image-Video-Optimizer/releases)*
 
+
+---
   <i>More projects coming soon...</i>
 </p>
