@@ -44,6 +44,10 @@ Learning → Building → Improving
 👉 *[Скачать последнюю версию → раздел Releases](https://github.com/broniks1/Image-Video-Optimizer/releases)*
 
 
+
+# 🖱️ CPS Tester | замер кликов в секунду
+* https://broniks1.github.io/CPS.TESTER/
+  
 ---
   <i>More projects coming soon...</i>
 </p>
